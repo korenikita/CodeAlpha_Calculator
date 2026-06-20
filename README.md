@@ -41,7 +41,7 @@ This project was built as part of **CodeAlpha internship/task** to improve skill
 ## 👨‍💻 Author
 
 Your Name  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/korenikita/CodeAlpha_Calculator
 
 ---
 
